@@ -30,3 +30,6 @@ while True:
         break
 
 cliente.close()
+
+# Kevin Alexis Martinez Cruz, 23220001
+# 6to. Semestre, IINF

@@ -68,3 +68,6 @@ while True:
 
     hilo.daemon = True
     hilo.start()
+
+# Kevin Alexis Martinez Cruz, 23220001
+# 6to. Semestre, IINF
